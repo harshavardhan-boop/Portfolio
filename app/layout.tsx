@@ -42,6 +42,8 @@ export const metadata: Metadata = {
     description,
   },
   robots: { index: true, follow: true },
+  // Google Search Console ownership verification
+  verification: { google: 'fwT4vTjd6i61aQSANSWSVV74ENFg-FaTSV8rU6D-DKo' },
 }
 
 export const viewport: Viewport = {
