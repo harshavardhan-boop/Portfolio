@@ -10,7 +10,7 @@ export const profile = {
   location: 'Hyderabad, India',
   email: 'chamalaharshavardhan55@gmail.com',
   /** Public URL of the site. Set NEXT_PUBLIC_SITE_URL on Vercel to override. */
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://v0-harshavardhan-portfolio.vercel.app',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://harshavardhan-reddy.vercel.app',
   /** File inside /public. Replace public/resume.pdf to update your resume. */
   resume: '/resume.pdf',
   /** File inside /public. Replace public/images/harshavardhan.jpg to update your photo. */
